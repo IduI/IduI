@@ -1,4 +1,4 @@
-### I once served the light, until cast me out 👋
+### I once served the light, until cast me out 
 
 <!--
 **IduI/IduI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
